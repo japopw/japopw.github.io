@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/japopw/japopw.github.io/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Web pages of interest
-[Calling a web api](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client)
+[Calling a web API](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client)
 
 [Azure API Apps](https://azure.microsoft.com/en-us/services/app-service/api/)
 
