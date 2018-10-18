@@ -9,6 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Azure API Apps](https://azure.microsoft.com/en-us/services/app-service/api/)
 
+[HTTP Get and Post request in C#](https://www.youtube.com/watch?v=EPSjxg4Rzs8)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
